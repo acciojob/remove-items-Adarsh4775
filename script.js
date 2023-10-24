@@ -2,7 +2,7 @@
 function removeItem(){
 	const color = document.getElementById("colorSelect");
 	const presentColor = color.value;
-	const tag = document.getElementByTagName("input");
+	const tag = document.getElementByquerySelector("input");
 
 	         if(color === presentColor)
 			 {
