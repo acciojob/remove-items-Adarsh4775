@@ -6,10 +6,8 @@ function removeItem(){
 
 	         if(color === presentColor)
 			 {
-				 console.log(tag);
+				 tag();
 			 }
-	else{
-		console.log("");
-	}
+
 }
 removeItem();
